@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_NaufalHaryanda_002", "Server_NaufalHaryanda_002\Server_NaufalHaryanda_002.csproj", "{8A518797-52FE-44FC-846B-F2333A8F38E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_NaufalHaryanda_002", "Client_NaufalHaryanda_002\Client_NaufalHaryanda_002.csproj", "{AD6D84B4-B0AB-4336-AD99-C64CAED6C5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A518797-52FE-44FC-846B-F2333A8F38E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A518797-52FE-44FC-846B-F2333A8F38E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A518797-52FE-44FC-846B-F2333A8F38E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A518797-52FE-44FC-846B-F2333A8F38E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6D84B4-B0AB-4336-AD99-C64CAED6C5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6D84B4-B0AB-4336-AD99-C64CAED6C5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6D84B4-B0AB-4336-AD99-C64CAED6C5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6D84B4-B0AB-4336-AD99-C64CAED6C5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755E4C0F-0B93-49DA-8792-E0E1C1BC3E20}
+	EndGlobalSection
+EndGlobal
